@@ -1,0 +1,31 @@
+Postfix #1:
+	8 7 3 X 28 + +
+	Result is 57.000000
+
+Postfix #2:
+	2 3 4 ^ / 1 +
+	Result is 1.024691
+
+Postfix #3:
+	2 3 - 1.2 4.5 1 + + -
+	Result is -7.700000
+
+Postfix #4:
+	5 4 / 6 5 X 10 / 1.25 - +
+	Result is 3.000000
+
+Postfix #5:
+	5 3 / 12 10 / ^ 6 1 8  + 3 - + /
+	Result is 0.153829
+
+Postfix #6:
+	7 -8 3 X 28 + +
+	Result is 11.000000
+
+Postfix #7:
+	2 3 4 ^ / -1.2 +
+	Result is -1.175309
+
+Postfix #8:
+	7 8 + 3 X 22 -
+	Result is 23.000000
